@@ -1,6 +1,5 @@
 package ThreeDee.shapes;
 
-
 /**
  * 3d objekt. Sisaldab informatsiooni objekti joonistamise kohta.
  */

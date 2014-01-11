@@ -1,6 +1,5 @@
 package ThreeDee;
 
-
 import ThreeDee.shapes.Shape;
 
 import javax.swing.*;
